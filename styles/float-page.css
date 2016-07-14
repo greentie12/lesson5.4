@@ -1,0 +1,32 @@
+.container{
+	padding: 30px;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+main {
+  padding-left: 90px;
+  padding-right: 90px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.left {
+	float: left;
+	margin-right: 12px;
+	width: 300px;
+	height: 300px;
+}
+
+.right {
+	float: right;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	margin-left: 12px;
+	width: 300px;
+	height: 300px;
+}
